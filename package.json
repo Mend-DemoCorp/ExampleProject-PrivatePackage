@@ -1,0 +1,22 @@
+{
+  "name": "exampleproject-privatepackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mend-DemoCorp/ExampleProject-PrivatePackage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mend-DemoCorp/ExampleProject-PrivatePackage/issues"
+  },
+  "homepage": "https://github.com/Mend-DemoCorp/ExampleProject-PrivatePackage#readme",
+  "dependencies": {
+    "@mend-democorp/private-node-package": "^1.0.2"
+  }
+}
